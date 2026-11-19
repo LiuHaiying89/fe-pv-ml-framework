@@ -73,4 +73,4 @@ deterministic and reproduce the manuscript exactly.
 ## Citation
 
 If you use this repository, please cite the manuscript and the dataset DOI:
-[Zenodo DOI to be added after repository deposit].
+https://doi.org/10.5281/zenodo.24357817 (release v1.0.0, archived on Zenodo).
